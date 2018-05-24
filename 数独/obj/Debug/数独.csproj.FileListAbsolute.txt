@@ -1,0 +1,9 @@
+F:\学霸\C#\数独\数独\bin\Debug\数独.exe.config
+F:\学霸\C#\数独\数独\bin\Debug\数独.exe
+F:\学霸\C#\数独\数独\bin\Debug\数独.pdb
+F:\学霸\C#\数独\数独\obj\Debug\数独.csprojResolveAssemblyReference.cache
+F:\学霸\C#\数独\数独\obj\Debug\数独.Form1.resources
+F:\学霸\C#\数独\数独\obj\Debug\数独.Properties.Resources.resources
+F:\学霸\C#\数独\数独\obj\Debug\数独.csproj.GenerateResource.Cache
+F:\学霸\C#\数独\数独\obj\Debug\数独.exe
+F:\学霸\C#\数独\数独\obj\Debug\数独.pdb
